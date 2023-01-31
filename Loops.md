@@ -1,7 +1,7 @@
 # Loops Revision
 ## for loop 
 
-### > Program to print Hello World for 5 times.
+### 1. Program to print Hello World for 5 times.
 
 ```c
 #include<stdio.h>
@@ -14,7 +14,7 @@ int main() {
 }
 ```
 
-### > Program to print numbers from 0-100.
+### 2. Program to print numbers from 0-100.
 
 ```c
 #include<stdio.h>
@@ -27,7 +27,7 @@ int main (){
 }
 ```
 
-### > Program to print numbers from 10-0.
+### 3. Program to print numbers from 10-0.
 
 ```c
 #include <stdio.h>
@@ -40,17 +40,8 @@ int main (){
 }
 ```
 
-### > Program to print numbers from 0-10.
+### 4. Program to print numbers from 0-10.
+[`Solution Here`](https://github.com/piyushgupta04/C-programming/blob/main/Practice_sets.md#program-to-print-numbers-from-0-10)
 
-```c
-#include<stdio.h>
-#include<conio.h>
-int main (){
-    for(int i=0; i<=11; i=i+1){
-        printf("%d\n", i);
-    }
-    return 0;
-}
-```
 
-> `*last updated on 31th January 2023*`
+<!-- > `*last updated on 31th January 2023*` -->
