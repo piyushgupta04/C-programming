@@ -2,7 +2,7 @@
 ## for loop 
 ### > Program to print Hello World for 5 times.
 
-```
+```c
 #include<stdio.h>
 #include<conio.h>
 int main() {
@@ -16,7 +16,7 @@ int main() {
 
 ### > Program to print numbers from 0-100.
 
-```
+```c
 #include<stdio.h>
 #include<conio.h>
 int main (){
