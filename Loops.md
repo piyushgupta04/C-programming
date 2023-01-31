@@ -26,4 +26,16 @@ int main (){
     return 0;
 }
 ```
+
+### > Program to print numbers from 10-0.
+```c
+#include <stdio.h>
+#include <conio.h>
+int main (){
+    for(int i=10; i>=1; i=i-1){
+        printf("%d\n", i);
+    }
+    return 0;
+}
+```
 > *last updated on 31th January 2023*
