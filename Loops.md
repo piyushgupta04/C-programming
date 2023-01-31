@@ -40,4 +40,17 @@ int main (){
 }
 ```
 
+### > Program to print numbers from 0-10.
+
+```c
+#include<stdio.h>
+#include<conio.h>
+int main (){
+    for(int i=0; i<=11; i=i+1){
+        printf("%d\n", i);
+    }
+    return 0;
+}
+```
+
 > `*last updated on 31th January 2023*`
