@@ -1,5 +1,6 @@
 # Loops Revision
 ## for loop 
+
 ### > Program to print Hello World for 5 times.
 
 ```c
@@ -12,7 +13,6 @@ int main() {
     return 0;
 }
 ```
-
 
 ### > Program to print numbers from 0-100.
 
@@ -28,6 +28,7 @@ int main (){
 ```
 
 ### > Program to print numbers from 10-0.
+
 ```c
 #include <stdio.h>
 #include <conio.h>
@@ -38,4 +39,5 @@ int main (){
     return 0;
 }
 ```
+
 > *last updated on 31th January 2023*
