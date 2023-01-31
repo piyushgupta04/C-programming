@@ -40,4 +40,4 @@ int main (){
 }
 ```
 
-> *last updated on 31th January 2023*
+> `*last updated on 31th January 2023*`
