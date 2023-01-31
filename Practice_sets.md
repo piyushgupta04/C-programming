@@ -1,8 +1,7 @@
 ### **Preactice set solutions**
 ## Just try it on your own, insted of copping the codes.
 
-> Program to print numbers from 0-10.
-
+#### Program to print numbers from 0-10.
 ```c
 #include<stdio.h>
 #include<conio.h>
