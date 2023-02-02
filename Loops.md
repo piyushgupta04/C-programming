@@ -56,5 +56,18 @@ int main(){
 }
 ```
 
+### 6. Program to print characters from a to z using for loop.
+```c
+# include<stdio.h>
+# include<conio.h>
+int main (){
+    char alphy;
+    for(alphy='a'; alphy<='z'; alphy++){
+        printf("%c\n", alphy);
+    }
+    return 0;
+}
+```
+
 
 <!-- > `*last updated on 31th January 2023*` -->
