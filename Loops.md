@@ -61,13 +61,14 @@ int main(){
 # include<stdio.h>
 # include<conio.h>
 int main (){
-    char alphy;
+    char alphy; /* here, I used Alphy inted of i */
     for(alphy='a'; alphy<='z'; alphy++){
         printf("%c\n", alphy);
     }
     return 0;
 }
 ```
+
 
 
 <!-- > `*last updated on 31th January 2023*` -->
