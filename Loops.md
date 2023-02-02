@@ -43,5 +43,18 @@ int main (){
 ### 4. Program to print numbers from 0-10.
 [`Solution Here`](https://github.com/piyushgupta04/C-programming/blob/main/Practice_sets.md#program-to-print-numbers-from-0-10)
 
+### 5. Program to print numbers from 0-10 in float using for loop.
+```c
+# include<stdio.h>
+# include<conio.h>
+int main(){
+    float i=1.0;
+    for(i; i<=10.0; i++/*same as i=i+1*/){
+        printf("%f\n", i);
+    }
+    return 0;
+}
+```
+
 
 <!-- > `*last updated on 31th January 2023*` -->
